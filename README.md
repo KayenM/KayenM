@@ -1,10 +1,10 @@
-👋 Hi, I’m Kayen - a second-year Systems Design Engineering student at the University of Waterloo!
+👋 Hi, I’m Kayen - a third-year Systems Design Engineering student at the University of Waterloo
 
-👀 I love tech. Whether it be creating fun games or long-term projects with more functional value, I love it! 
+👀 I love building with software. Whether it be creating fun games or long-term projects with more functional value, I love it! 
 
-🌱 I’ve had amazing internships at Scotiabank and Portable Intelligence this past year. 
+🌱 I’ve had some really fun and exciting internships in the past, which have made me fall in love with the craft.
 
-I’m looking to collaborate on new projects, so feel free to contact me at k47mehta@uwaterloo.ca if you're interested!
+Feel free to contact me at kayen.mehta@uwaterloo.ca!
 
 
 
