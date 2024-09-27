@@ -1,6 +1,6 @@
 # Hi, I'm Kayen! 👋
 
-I'm a third-year **Systems Design Engineering** student at the **University of Waterloo** with a love for **technology** and **problem-solving**. 🚀
+I'm a fourth-year **Systems Design Engineering** student at the **University of Waterloo** with a love for **technology** and **problem-solving**. 🚀
 
 Currently, I'm gaining valuable experience as a **Software Engineering Intern** at **Cohere**, a leading LLM creator. This opportunity has allowed me to delve into the world of **infrastructure** and **security** and contribute to building innovative solutions that help the world become more productive.
 
