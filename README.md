@@ -5,5 +5,3 @@ I'm a fourth-year **Systems Design Engineering** student at the University of Wa
 I'm on the lookout for internships that will further challenge me. Please reach out to me at **kayen.mehta@uwaterloo.ca** if you'd like to work together. 
 
 Looking forward to the next adventure! 🚀
-
-[LinkedIn](https://www.linkedin.com/in/kayen-mehta/)
